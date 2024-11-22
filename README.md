@@ -4,3 +4,7 @@
 1. 执行creat_cricle_data.py  自制数据集
 2. 执行trian.py   并保寸loss 值最低的模型
 3. 执行predict.y   随机产生圆心图像，并依靠模型进行预测
+# 结果图像： 
+<div align="center">
+<img src= "https://github.com/Virus-AI-Dome/Circle_Prediction_Demo/blob/main/prediction.jpg">
+</div>
